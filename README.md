@@ -1,14 +1,13 @@
 # Hi there, I'm Zosez! 👋
 
 ## About Me
-I'm a passionate developer with a keen interest in [your interests, e.g., web development, data science, AI, etc.]. I enjoy working on innovative projects and continuously learning new technologies.
+I'm a passionate developer with a keen interest in blockchain, AI, Datascience and development. I enjoy working on innovative projects and continuously learning new technologies.
 
-- 🔭 I’m currently working on [current project or technology you're focused on].
-- 🌱 I’m currently learning [technology or skill you're currently learning].
-- 👯 I’m looking to collaborate on [projects, open source contributions, etc.].
-- 💬 Ask me about [topics you're knowledgeable about].
-- 📫 How to reach me: [your contact information, e.g., email or social media handles].
-- ⚡ Fun fact: [an interesting fact about you].
+- 🔭 I’m currently working on weather app.
+- 🌱 I’m currently learning Datascience and Development.
+- 👯 I’m looking to collaborate on diffrent projects, open source contributions, etc.
+- 📫 How to reach me: 2kashyap.adhikari@gmail.com.
+- ⚡ Fun fact: I am a pickleball player.
 
 ## GitHub Stats
 ![Zosez's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zosez&show_icons=true&theme=radical)
